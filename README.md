@@ -51,7 +51,7 @@ install.packages(c("stringr", "dplyr", "readr"))
 
 ### ▶️ How to Run
 
-1. Save the R script as `JSONtoCSV_Pubfinder.R.R`.
+1. Save the R script as `JSONtoCSV_Pubfinder.R`.
 2. Place your `.txt` file in the same folder.
 3. In R or RStudio, run:
 
